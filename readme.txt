@@ -4,3 +4,4 @@ git my test
 git my test1
 git my test2
 create LICENSE
+test remote origin

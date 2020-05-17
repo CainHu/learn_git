@@ -9,4 +9,4 @@ create a new branch
 A & B
 --no-ff
 how to stash(finished)
-there is a bug
+There is a bug

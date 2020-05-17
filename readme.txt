@@ -7,3 +7,4 @@ create LICENSE
 test remote origin
 create a new branch 
 A and B
+--no-ff

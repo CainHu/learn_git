@@ -10,3 +10,4 @@ A & B
 --no-ff
 how to stash(finished)
 there is a bug
+create a new function

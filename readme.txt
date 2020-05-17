@@ -6,6 +6,6 @@ git my test2
 create LICENSE
 test remote origin
 create a new branch 
-A and B
+A & B
 --no-ff
 how to stash(finished)

@@ -8,3 +8,4 @@ test remote origin
 create a new branch 
 A and B
 --no-ff
+how to stash(finished)
